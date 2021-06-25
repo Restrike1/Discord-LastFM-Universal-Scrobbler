@@ -61,8 +61,8 @@ public class LastFM {
     /**
      * Last.FM API key and secret.
      */
-    private static final String LAST_FM_API_KEY = "e931d11abce57e671e321a8c532744d5";
-    private static final String LAST_FM_API_SECRET = "ec947e5c589c18e8cdb1a40d2892e1af";
+    private static final String LAST_FM_API_KEY = "b56e8174e6d1bcf62b6e73d804ff9e91";
+    private static final String LAST_FM_API_SECRET = "a5353e6a1ed34990f4fbd0c1088357a5";
 
     /**
      * The desired format of the {@link Track} data when it is converted into a {@link String}.
